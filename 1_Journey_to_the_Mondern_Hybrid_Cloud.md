@@ -21,3 +21,20 @@ To avoid this issues it's important to focus on business requirements first. The
 
 * **A Hybrid cloud engineer** is able to design, operate, and manage varies types of workloads across multiple cloud platforms and infrastructure providers. 
 
+Hybrid engineers are able to: 
+
+* Consult and plan with business stakeholders
+* Successfully execute this plan 
+* Validate outcomes through their technical skillset 
+
+They also help organization determine their readiness for in transitioning thier infrastructure. 
+
+An important task is to make sure that buisness requirements are clearly defined. 
+
+This is done there Service Level Agreements, or SLAs. Which is used to deteremine the right infrasturture solutions for every service. 
+
+From there Hybrid Engineers are involved with the planning of the *implementation* of the migration. Which includes: 
+
+* Refactoring applications for the best Total Cost of Ownership(TCO) and Return on Investment(ROI)
+
+Once complete the infrastructure needs to be constanly monitored to maintain performance and ensure SLAs are met. 
