@@ -17,3 +17,7 @@ ____
 1. Lack of organizational readiness. 
 2. Lack of clear goals out outcomes to be achieved. 
 
+To avoid this issues it's important to focus on business requirements first. Then you can match those requirements to technologies that help achieve those goald or requirments. 
+
+* **A Hybrid cloud engineer** is able to design, operate, and manage varies types of workloads across multiple cloud platforms and infrastructure providers. 
+
