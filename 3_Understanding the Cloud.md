@@ -13,7 +13,7 @@ As a hybrid engineer you would have to be able to answer these 4 questions:
 
 You need to answer 4 main questions to start the organization's digital transformation:
 
-How do you leave traditional IT behind and become a Cloud consumer?
-How do you choose between application hosts? Infrastructure as a Service, Platform as a Service, or Software as a Service?
-How does your choice impact workload design, deployment, management, and costs?
-Can you leverage multiple models effectively?
+1. How do you leave traditional IT behind and become a Cloud consumer?
+2. How do you choose between application hosts? Infrastructure as a Service, Platform as a Service, or Software as a Service?
+3. How does your choice impact workload design, deployment, management, and costs?
+4. Can you leverage multiple models effectively?
