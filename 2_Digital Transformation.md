@@ -7,5 +7,5 @@ Digital Transformation (DX)- is the commoditization of the IT industry. Or moder
 
 Hybrid Cloud helps to bring on-prem data centers together with public cloud. 
 
-Hyrbrid Engineers, help organizations modernize its operations and infrastructure. 
+Hybrid Engineers, help organizations modernize its operations and infrastructure. 
 
