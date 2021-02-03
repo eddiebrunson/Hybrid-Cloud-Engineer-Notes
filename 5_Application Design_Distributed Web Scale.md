@@ -16,7 +16,7 @@ Today’s cloud infrastructure is networked, which isn't like the single vendor'
 
 ### 3-tier Web Application 
 
-![images/3-tier_web.png]
+![3-tier_web](images/3-tier_web.png)
 
 The Internet and open source software lowered application design costs and changed to being distributed over the network. The functionality became a separation of duties from being monolithic.
 
